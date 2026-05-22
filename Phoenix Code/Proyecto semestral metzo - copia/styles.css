@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f7ff;
+  color: #222;
+}
+
+.hero {
+  background: linear-gradient(135deg, #6c63ff, #b892ff);
+  color: white;
+  padding: 90px 20px;
+  text-align: center;
+  border-radius: 0 0 40px 40px;
+}
+
+.btn-metzo {
+  background-color: #6c63ff;
+  color: white;
+  border-radius: 25px;
+  padding: 10px 25px;
+}
+
+.btn-metzo:hover {
+  background-color: #574fd6;
+  color: white;
+}
+
+.card {
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+.service-img {
+  height: 220px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.footer {
+  background-color: #222;
+  color: white;
+}
+
+.footer a {
+  color: #b892ff;
+  text-decoration: none;
+}
+
+.center{
+  text-align: justify;
+}
